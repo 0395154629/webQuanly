@@ -1,0 +1,11 @@
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\bin\Debug\cau3huynhduyphuong.exe.config
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\bin\Debug\cau3huynhduyphuong.exe
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\bin\Debug\cau3huynhduyphuong.pdb
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.csproj.AssemblyReference.cache
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.Form1.resources
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.huynhduyphuong_mathang.resources
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.Properties.Resources.resources
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.csproj.GenerateResource.cache
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.csproj.CoreCompileInputs.cache
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.exe
+C:\Users\Danh Huynh\Downloads\cau3huynhduyphuong\cau3huynhduyphuong\obj\Debug\cau3huynhduyphuong.pdb
